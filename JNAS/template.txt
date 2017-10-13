@@ -1,0 +1,60 @@
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F001
+mkdir /home/akiyama/JNAS/JNAS_voicedara/WAVES_DT/F002
+...
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F050
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M001
+mkdir /home/akiyama/JNAS/JNAS_voicedara/WAVES_DT/M002
+...
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M050
+cd /home/akiyama/JNAS/JNAS1/WAVES_DT/F001/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas1.py F001
+cd /home/akiyama/JNAS/JNAS1/WAVES_DT/F002/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas1.py F002
+...
+cd /home/akiyama/JNAS/JNAS1/WAVES_DT/F050/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas1.py F050
+cd /home/akiyama/JNAS/JNAS1/WAVES_DT/M001/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas1.py M001
+...
+cd /home/akiyama/JNAS/JNAS1/WAVES_DT/M050/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas1.py M050
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F051
+mkdir /home/akiyama/JNAS/JNAS_voicedara/WAVES_DT/F052
+...
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F100
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M051
+mkdir /home/akiyama/JNAS/JNAS_voicedara/WAVES_DT/M052
+...
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M100
+cd /home/akiyama/JNAS/JNAS2/WAVES_DT/F051/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas2.py F051
+cd /home/akiyama/JNAS/JNAS2/WAVES_DT/F052/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas2.py F052
+...
+cd /home/akiyama/JNAS/JNAS2/WAVES_DT/F100/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas2.py F100
+cd /home/akiyama/JNAS/JNAS2/WAVES_DT/M051/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas2.py M051
+...
+cd /home/akiyama/JNAS/JNAS2/WAVES_DT/M100/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas2.py M100
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F101
+mkdir /home/akiyama/JNAS/JNAS_voicedara/WAVES_DT/F102
+...
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F150
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M101
+mkdir /home/akiyama/JNAS/JNAS_voicedara/WAVES_DT/M102
+...
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M150
+cd /home/akiyama/JNAS/JNAS3/WAVES_DT/F101/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas3.py F101
+cd /home/akiyama/JNAS/JNAS3/WAVES_DT/F102/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas3.py F102
+...
+cd /home/akiyama/JNAS/JNAS3/WAVES_DT/F150/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas3.py F150
+cd /home/akiyama/JNAS/JNAS3/WAVES_DT/M101/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas3.py M101
+...
+cd /home/akiyama/JNAS/JNAS3/WAVES_DT/M150/NP
+ls | xargs -L 1 python /home/akiyama/JNAS/pyworld_jnas3.py M150

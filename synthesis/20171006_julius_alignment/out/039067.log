@@ -1,0 +1,17 @@
+STAT: jconf successfully finalized
+STAT: *** loading AM00 _default
+Stat: init_phmm: Reading in HMM definition
+Stat: read_binhmm: binary format HMM definition
+Stat: read_binhmm: this HMM does not need multipath handling
+Stat: init_phmm: defined HMMs:    43
+Stat: init_phmm: logical names:    43
+Stat: init_phmm: base phones:    43 used in logical
+Stat: init_phmm: finished reading HMM definitions
+STAT: *** AM00 _default loaded
+STAT: *** loading LM00 _default
+STAT: reading [out/039067.dfa] and [out/039067.dict]...
+Error: voca_load_htkdict: line 2: corrupted data:
+> 1 [w_1] 
+Error: init_voca: error in reading out/039067.dict: 1 words failed out of 2 words
+ERROR: failed to read dictionary "out/039067.dict"
+ERROR: m_fusion: some error occured in reading grammars

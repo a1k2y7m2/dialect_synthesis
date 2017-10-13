@@ -1,0 +1,28 @@
+
+This is a script to align audio and monophone.
+
+
+perl segment_julius_with_monophone.pl base.scp wav lab/ out
+
+   base.scp ... filelist of basename
+   wav ... dir to find wav file
+   lab ... dir to find monophone file
+   out ... dir to save aligned file
+
+if you have:
+   base.scp
+      a01
+   wav/a01.wav ... audio file (16kHz sampling, WAV format)
+   lab/a01.lab ... monophone file,
+then the following file will be generated:
+   out/a01.lab
+      0.000 0.500 a
+      0.500 1.234 r
+      ...
+     
+
+# set up   
+bin ... dir to save julius 
+   Please replace "julius" with another one you compiled.
+models ... dir to save acoustic models
+   No need to do.

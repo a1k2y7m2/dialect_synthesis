@@ -1,0 +1,11 @@
+
+pythonベースの連続F0モデル推定
+
+図がプロットされるかを確かめて下さい．
+   > python util_f0.py
+
+要：
+   scipy ... for linear interpolation
+   matplotlib ... for plot
+   numpy
+   

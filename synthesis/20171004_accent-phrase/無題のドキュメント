@@ -1,0 +1,7 @@
+
+readme
+
+
+テキストから，アクセント句境界，単語境界，モーラ，音素を求めるプログラム
+
+   > python text2accphrase.py 

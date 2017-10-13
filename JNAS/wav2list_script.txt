@@ -1,0 +1,612 @@
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F001
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M001
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F002
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M002
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F003
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M003
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F004
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M004
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F005
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M005
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F006
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M006
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F007
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M007
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F008
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M008
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F009
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M009
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F010
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M010
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F011
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M011
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F012
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M012
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F013
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M013
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F014
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M014
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F015
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M015
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F016
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M016
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F017
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M017
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F018
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M018
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F019
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M019
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F020
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M020
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F021
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M021
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F022
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M022
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F023
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M023
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F024
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M024
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F025
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M025
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F026
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M026
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F027
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M027
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F028
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M028
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F029
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M029
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F030
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M030
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F031
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M031
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F032
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M032
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F033
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M033
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F034
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M034
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F035
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M035
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F036
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M036
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F037
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M037
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F038
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M038
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F039
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M039
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F040
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M040
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F041
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M041
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F042
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M042
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F043
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M043
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F044
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M044
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F045
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M045
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F046
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M046
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F047
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M047
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F048
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M048
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F049
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M049
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F050
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M050
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F001/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F001
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M001/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M001
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F002/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F002
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M002/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M002
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F003/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F003
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M003/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M003
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F004/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F004
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M004/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M004
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F005/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F005
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M005/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M005
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F006/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F006
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M006/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M006
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F007/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F007
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M007/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M007
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F008/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F008
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M008/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M008
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F009/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F009
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M009/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M009
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F010/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F010
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M010/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M010
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F011/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F011
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M011/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M011
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F012/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F012
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M012/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M012
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F013/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F013
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M013/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M013
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F014/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F014
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M014/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M014
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F015/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F015
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M015/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M015
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F016/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F016
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M016/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M016
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F017/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F017
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M017/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M017
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F018/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F018
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M018/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M018
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F019/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F019
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M019/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M019
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F020/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F020
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M020/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M020
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F021/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F021
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M021/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M021
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F022/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F022
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M022/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M022
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F023/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F023
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M023/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M023
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F024/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F024
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M024/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M024
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F025/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F025
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M025/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M025
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F026/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F026
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M026/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M026
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F027/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F027
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M027/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M027
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F028/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F028
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M028/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M028
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F029/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F029
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M029/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M029
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F030/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F030
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M030/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M030
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F031/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F031
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M031/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M031
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F032/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F032
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M032/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M032
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F033/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F033
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M033/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M033
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F034/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F034
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M034/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M034
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F035/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F035
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M035/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M035
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F036/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F036
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M036/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M036
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F037/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F037
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M037/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M037
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F038/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F038
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M038/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M038
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F039/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F039
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M039/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M039
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F040/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F040
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M040/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M040
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F041/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F041
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M041/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M041
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F042/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F042
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M042/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M042
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F043/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F043
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M043/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M043
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F044/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F044
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M044/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M044
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F045/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F045
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M045/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M045
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F046/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F046
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M046/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M046
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F047/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F047
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M047/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M047
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F048/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F048
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M048/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M048
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F049/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F049
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M049/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M049
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F050/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py F050
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M050/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas1.py M050
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F051
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M051
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F052
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M052
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F053
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M053
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F054
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M054
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F055
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M055
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F056
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M056
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F057
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M057
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F058
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M058
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F059
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M059
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F060
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M060
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F061
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M061
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F062
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M062
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F063
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M063
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F064
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M064
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F065
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M065
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F066
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M066
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F067
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M067
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F068
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M068
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F069
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M069
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F070
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M070
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F071
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M071
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F072
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M072
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F073
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M073
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F074
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M074
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F075
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M075
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F076
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M076
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F077
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M077
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F078
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M078
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F079
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M079
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F080
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M080
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F081
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M081
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F082
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M082
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F083
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M083
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F084
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M084
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F085
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M085
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F086
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M086
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F087
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M087
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F088
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M088
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F089
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M089
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F090
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M090
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F091
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M091
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F092
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M092
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F093
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M093
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F094
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M094
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F095
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M095
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F096
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M096
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F097
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M097
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F098
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M098
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F099
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M099
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F100
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M100
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F051/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F051
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M051/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M051
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F052/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F052
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M052/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M052
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F053/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F053
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M053/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M053
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F054/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F054
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M054/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M054
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F055/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F055
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M055/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M055
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F056/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F056
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M056/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M056
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F057/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F057
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M057/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M057
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F058/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F058
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M058/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M058
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F059/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F059
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M059/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M059
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F060/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F060
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M060/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M060
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F061/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F061
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M061/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M061
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F062/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F062
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M062/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M062
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F063/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F063
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M063/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M063
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F064/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F064
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M064/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M064
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F065/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F065
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M065/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M065
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F066/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F066
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M066/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M066
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F067/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F067
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M067/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M067
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F068/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F068
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M068/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M068
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F069/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F069
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M069/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M069
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F070/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F070
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M070/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M070
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F071/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F071
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M071/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M071
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F072/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F072
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M072/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M072
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F073/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F073
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M073/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M073
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F074/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F074
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M074/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M074
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F075/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F075
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M075/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M075
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F076/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F076
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M076/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M076
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F077/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F077
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M077/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M077
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F078/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F078
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M078/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M078
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F079/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F079
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M079/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M079
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F080/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F080
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M080/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M080
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F081/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F081
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M081/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M081
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F082/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F082
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M082/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M082
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F083/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F083
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M083/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M083
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F084/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F084
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M084/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M084
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F085/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F085
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M085/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M085
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F086/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F086
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M086/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M086
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F087/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F087
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M087/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M087
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F088/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F088
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M088/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M088
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F089/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F089
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M089/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M089
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F090/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F090
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M090/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M090
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F091/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F091
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M091/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M091
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F092/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F092
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M092/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M092
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F093/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F093
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M093/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M093
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F094/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F094
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M094/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M094
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F095/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F095
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M095/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M095
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F096/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F096
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M096/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M096
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F097/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F097
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M097/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M097
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F098/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F098
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M098/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M098
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F099/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F099
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M099/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M099
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F100/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py F100
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M100/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas2.py M100
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F101
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M101
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F102
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M102
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F103
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M103
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F104
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M104
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F105
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M105
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F106
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M106
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F107
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M107
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F108
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M108
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F109
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M109
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F110
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M110
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F111
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M111
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F112
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M112
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F113
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M113
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F114
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M114
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F115
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M115
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F116
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M116
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F117
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M117
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F118
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M118
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F119
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M119
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F120
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M120
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F121
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M121
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F122
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M122
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F123
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M123
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F124
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M124
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F125
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M125
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F126
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M126
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F127
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M127
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F128
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M128
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F129
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M129
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F130
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M130
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F131
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M131
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F132
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M132
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F133
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M133
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F134
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M134
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F135
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M135
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F136
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M136
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F137
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M137
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F138
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M138
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F143A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M139A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F143B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M139B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F144A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M140A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F144B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M140B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F145A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M141A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F145B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M141B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F146A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M142A
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F146B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M142B
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F149
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M147
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/F150
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/M148
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F101/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F101
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M101/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M101
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F102/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F102
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M102/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M102
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F103/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F103
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M103/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M103
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F104/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F104
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M104/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M104
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F105/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F105
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M105/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M105
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F106/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F106
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M106/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M106
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F107/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F107
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M107/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M107
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F108/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F108
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M108/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M108
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F109/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F109
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M109/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M109
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F110/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F110
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M110/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M110
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F111/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F111
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M111/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M111
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F112/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F112
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M112/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M112
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F113/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F113
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M113/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M113
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F114/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F114
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M114/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M114
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F115/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F115
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M115/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M115
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F116/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F116
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M116/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M116
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F117/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F117
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M117/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M117
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F118/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F118
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M118/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M118
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F119/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F119
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M119/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M119
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F120/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F120
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M120/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M120
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F121/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F121
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M121/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M121
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F122/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F122
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M122/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M122
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F123/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F123
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M123/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M123
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F124/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F124
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M124/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M124
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F125/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F125
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M125/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M125
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F126/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F126
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M126/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M126
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F127/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F127
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M127/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M127
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F128/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F128
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M128/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M128
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F129/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F129
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M129/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M129
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F130/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F130
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M130/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M130
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F131/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F131
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M131/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M131
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F132/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F132
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M132/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M132
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F133/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F133
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M133/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M133
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F134/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F134
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M134/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M134
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F135/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F135
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M135/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M135
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F136/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F136
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M136/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M136
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F137/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F137
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M137/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M137
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F138/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F138
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M138/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M138
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F143A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F143A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M139A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M139A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F143B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F143B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M139B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M139B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F144A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F144A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M140A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M140A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F144B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F144B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M140B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M140B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F145A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F145A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M141A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M141A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F145B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F145B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M141B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M141B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F146A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F146A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M142A/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M142A
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F146B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F146B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M142B/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M142B
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F149/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F149
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M147/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M147
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/F150/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py F150
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/M148/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py M148
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/FP01
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/MP01
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/FP02
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/MP02
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/FP03
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/MP03
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/FP04
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/MP04
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/FP05
+mkdir /home/akiyama/JNAS/JNAS_voicedata/WAVES_DT/MP05
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/FP01/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py FP01
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/MP01/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py MP01
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/FP02/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py FP02
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/MP02/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py MP02
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/FP03/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py FP03
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/MP03/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py MP03
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/FP04/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py FP04
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/MP04/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py MP04
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/FP05/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py FP05
+ls /home/akiyama/JNAS/JNAS1/WAVES_DT/MP05/NP/*.wav | xargs -i basename {} | xargs -L 1 python pyworld_jnas3.py MP05
