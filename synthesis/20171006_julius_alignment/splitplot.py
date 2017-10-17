@@ -55,8 +55,8 @@ for r in open("test.scp").readlines():
 
 
     # add silE to list
-    acctimestart += [phonemestart[len(phonemestart) - 1]]
-    acctimeend += [phonemeend[len(phonemeend) - 1]]
+    acctimestart += [phonemestart[-1]]
+    acctimeend += [phonemeend[-1]]
     accphrase += ["sil"]
 
     fw = open(splitfile, "w")
@@ -70,21 +70,37 @@ for r in open("test.scp").readlines():
         fw.write(" ")
         fw.write(accphrase[j])
 
-    timelength = phonemeend[len(phonemeend) - 1]
+    timelength = phonemeend[-1]
 
     fw.close()
 
     continuousF0file = "/home/akiyama/synthesis/20171006_julius_alignment/continuousF0/NF" + fn + "_DT.txt"
     continuousF0 = np.loadtxt(continuousF0file)
 
-    #ploting
-
     framelength = len(continuousF0)
-    #print(framelength)
+
+    sr = timelength / framelength
+
+    print(len(accphrase))
+
+    #fft_cf0 = np.zeros(0)
 
     font_path = '/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf'
     font_prop = FontProperties(fname=font_path)
     matplotlib.rcParams['font.family'] = font_prop.get_name()
+
+    # for k in range(len(accphrase)):
+    #     sub_cf0 = continuousF0[int(acctimestart[k]/sr):int(acctimeend[k]/sr)]
+    #     sub_fft_cf0 = np.fft.fft(sub_cf0)
+    #     plt.subplot(4,4,k+1)
+    #     plt.plot(np.abs(sub_fft_cf0))
+
+
+    #print(framelength)
+
+
+
+    # plt.show()
 
     plt.ylim(4,6)
     plt.plot(continuousF0, label='continuous log F0')
