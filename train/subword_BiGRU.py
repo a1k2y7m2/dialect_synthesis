@@ -20,34 +20,7 @@ vocab_size = 8000
 n_units = 64
 out_size = 50
 EPOCH_NUM = 2000
-
-#network definition
-class LSTM(chainer.Chain):
-    def __init__(self, in_size, n_units, out_size, train=True):
-        super(LSTM, self).__init__()
-        with self.init_scope():
-            self.embed = L.EmbedID(in_size, n_units)
-            self.l1 = L.LSTM(n_units, n_units)
-            self.l2 = L.LSTM(n_units, n_units)
-            self.l3 = L.Linear(n_units, out_size)
-
-        for param in self.params():
-            param.data[...] = np.random.uniform(-0.1, 0.1, param.data.shape)
-
-    def reset_state(self):
-        self.l1.reset_state()
-        self.l2.reset_state()
-
-    def __call__(self,x):
-        h0 = self.embed(x)
-        h1 = self.l1(F.dropout(h0))
-        h2 = self.l2(F.dropout(h1))
-        y = self.l3(F.dropout(h2))
-        return y
-
-    def lossfun(self, x, t):
-        y = self.__call__(x)
-        return F.mean_squared_error(y, t)
+batch_size = 1
 
 def load_input(inputfile):
     subword_id = np.loadtxt(inputfile,delimiter=" ",dtype=np.int32)
@@ -55,10 +28,9 @@ def load_input(inputfile):
 
 def load_output(outputfile):
     output = np.loadtxt(outputfile,delimiter=",",dtype=np.float32)
-    mean = output.mean()
-    output -= mean*np.ones(output.shape)
+    # mean = output.mean()
+    # output -= mean*np.ones(output.shape)
     return output
-
 
 class BiGRU(chainer.Chain):
     def __init__(self, n_layer, in_size, n_units, out_size, dropout=0.5):
@@ -88,7 +60,6 @@ class BiGRU(chainer.Chain):
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--gpu', '-g', default=-1, type=int, help='GPU ID (negative value indicates CPU)')
-parser.add_argument('--model', '-m', default="LSTM", type=str, help='Model Name(LSTM or BiGRU)')
 args = parser.parse_args()
 
 def main():
@@ -97,49 +68,70 @@ def main():
         # Make a specified GPU current
         chainer.cuda.get_device_from_id(args.gpu).use()
         chainer.cuda.check_cuda_available()
-        #xp = cuda.cupy
+        xp = cuda.cupy
     else:
         xp = np
 
-    if args.model == "LSTM":
-        model = LSTM(vocab_size,n_units,out_size)
-    elif args.model == "BiGRU":
-        model = BiGRU(n_layer,vocab_size,n_units,out_size)
+    model = BiGRU(n_layer,vocab_size,n_units,out_size)
     if args.gpu >= 0:
         model.to_gpu()
+        #model.using_config('use_cudnn', use_cudnn)
 
     # Setup an optimizer
     optimizer = chainer.optimizers.Adam()
     optimizer.setup(model)
+
+    print("#vocab =", vocab_size)
+
+    #loading train_data
+    # data is the list of the list of "chainer.Variable"
+    input = []
+    output = []
+
+    for r in open("train.scp").readlines():
+        fn = r.strip()
+        inputfile = "./train_in/" + fn + ".sub"
+        outputfile = "./train_out/" + fn + ".csv"
+        subwordseq = load_input(inputfile)
+        f0seq = load_output(outputfile)
+        model.cleargrads()
+        loss = 0
+
+        train_x_list = []
+        train_t_list = []
+        for i in range(len(f0seq)):
+            train_x_list.append(xp.array([subwordseq[i]]))
+            train_t_list.append(xp.array([f0seq[i]]))
+
+        input.append(train_x_list)
+        output.append(train_t_list)
+
+    input = xp.asarray(input)
+    output = xp.asarray(output)
+
+    n_text = len(input)
+    print("#n_text =", n_text)
     st = datetime.datetime.now()
     for epoch in range(EPOCH_NUM):
 
-        for r in open("train.scp").readlines():
-            fn = r.strip()
-            inputfile = "./train_in/" + fn + ".sub"
-            outputfile = "./train_out/" + fn + ".csv"
-            subwordseq = load_input(inputfile)
-            f0seq = load_output(outputfile)
-            model.cleargrads()
+        perm = np.random.permutation(n_text)
+        all_loss = 0
+        for i in range(0, n_text, batch_size):
             loss = 0
-            if args.model == "LSTM":
-                for i in range(len(f0seq)):
-                    x = chainer.Variable(np.array([subwordseq[i]]))
-                    t = chainer.Variable(np.array([f0seq[i]]))
-                    loss += model.lossfun(x,t)
-            if args.model == "BiGRU":
-                x_list = []
-                t_list = []
-                for i in range(len(f0seq)):
-                    x_list.append(chainer.Variable(np.array([subwordseq[i]])))
-                    t_list.append(chainer.Variable(np.array([f0seq[i]])))
-                loss += model.lossfun(x_list,t_list)
+            input_list = input[perm[i:i+batch_size]]
+            output_list = output[perm[i:i+batch_size]]
+            model.cleargrads()
+            for j in range(batch_size):
+                x_list = [xp.asarray(item, dtype=xp.int32) for item in input_list[j]]
+                t_list = [xp.asarray(item, dtype=xp.float32) for item in output_list[j]]
+                loss += model.lossfun(x_list, t_list)
 
-        loss.backward()
-        optimizer.update()
-        if (epoch+1)%100 == 0:
+            all_loss += loss
+            loss.backward()
+            optimizer.update()
+        if (epoch + 1) % 100 == 0:
             ed = datetime.datetime.now()
-            print("epoch:\t{}\tloss:\t{}\ttime:\t{}\t".format(epoch+1,loss.data,ed-st))
+            print("epoch:\t{}\tloss:\t{}\ttime:\t{}\t".format(epoch+1,all_loss.data,ed-st))
             st = datetime.datetime.now()
 
     #plot raw f0 and predicted f0
