@@ -12,9 +12,13 @@ from matplotlib.font_manager import FontProperties
 
 for r in open("test.scp").readlines():
     fn = r.strip()
-    accfile = "/home/akiyama/synthesis/20171006_julius_alignment/accphrase/" + fn[0:3] + "/" + fn + ".txt"
-    labfile = "/home/akiyama/synthesis/20171006_julius_alignment/out/" + fn + ".lab"
-    splitfile = "/home/akiyama/synthesis/20171006_julius_alignment/split/" + fn + ".lab"
+    # accfile = "/home/akiyama/synthesis/20171006_julius_alignment/accphrase/" + fn[0:3] + "/" + fn + ".txt"
+    # labfile = "/home/akiyama/synthesis/20171006_julius_alignment/out/" + fn + ".lab"
+    # splitfile = "/home/akiyama/synthesis/20171006_julius_alignment/split/" + fn + ".lab"
+
+    accfile = "/Users/akiyamatakanori/Desktop/dialect_synthesis/synthesis/20171006_julius_alignment/accphrase/" + fn[0:3] + "/" + fn + ".txt"
+    labfile = "/Users/akiyamatakanori/Desktop/dialect_synthesis/synthesis/20171006_julius_alignment/out/" + fn + ".lab"
+    splitfile = "/Users/akiyamatakanori/Desktop/dialect_synthesis/synthesis/20171006_julius_alignment/split/" + fn + ".lab"
 
     accstart = []
     accend = []
@@ -74,7 +78,7 @@ for r in open("test.scp").readlines():
 
     fw.close()
 
-    continuousF0file = "/home/akiyama/synthesis/20171006_julius_alignment/continuousF0/NF" + fn + "_DT.txt"
+    continuousF0file = "/Users/akiyamatakanori/Desktop/dialect_synthesis/synthesis/20171006_julius_alignment/continuousF0/NF" + fn + "_DT.txt"
     continuousF0 = np.loadtxt(continuousF0file)
 
     framelength = len(continuousF0)
@@ -85,16 +89,28 @@ for r in open("test.scp").readlines():
 
     #fft_cf0 = np.zeros(0)
 
-    font_path = '/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf'
-    font_prop = FontProperties(fname=font_path)
-    matplotlib.rcParams['font.family'] = font_prop.get_name()
+    # font_path = '/usr/share/fonts/truetype/takao-gothic/TakaoPGothic.ttf'
+    # font_prop = FontProperties(fname=font_path)
+    # matplotlib.rcParams['font.family'] = font_prop.get_name()
 
-    # for k in range(len(accphrase)):
-    #     sub_cf0 = continuousF0[int(acctimestart[k]/sr):int(acctimeend[k]/sr)]
-    #     sub_fft_cf0 = np.fft.fft(sub_cf0)
-    #     plt.subplot(4,4,k+1)
-    #     plt.plot(np.abs(sub_fft_cf0))
+    for k in range(len(accphrase)):
+        sub_cf0 = continuousF0[int(acctimestart[k]/sr):int(acctimeend[k]/sr)]
+        sub_fft_cf0 = np.fft.fft(sub_cf0)
+        # plt.subplot(4,4,k+1)
+        # plt.plot(np.abs(sub_fft_cf0))
 
+    cf0 = continuousF0[int(acctimestart[7]/sr):int(acctimeend[7]/sr)]
+    print(cf0)
+    fft_cf0 = np.fft.fft(cf0)
+    cut_fft_cf0 = fft_cf0[0:50]
+    cut_cf0 = np.fft.ifft(cut_fft_cf0)
+    print(abs(cut_cf0))
+
+    plt.subplot(2,1,1)
+    plt.plot(cf0)
+    plt.subplot(2,1,2)
+    plt.plot(cut_cf0)
+    plt.show()
 
     #print(framelength)
 
@@ -102,16 +118,16 @@ for r in open("test.scp").readlines():
 
     # plt.show()
 
-    plt.ylim(4,6)
-    plt.plot(continuousF0, label='continuous log F0')
-    plt.legend()
-
-    for k in range(len(accphrase)):
-        plt.plot([acctimestart[k]*framelength/timelength,acctimestart[k]*framelength/timelength],[4,6],'k-', linewidth=0.5)
-        plt.text((acctimestart[k]+acctimeend[k])*framelength/(2*timelength), 4.2, str(accphrase[k]), fontsize=12, ha='center', va ='center')
-
-    plt.plot([acctimeend[len(accphrase) - 1]*framelength/timelength,acctimeend[len(accphrase) - 1]*framelength/timelength],[4,6],'k-', linewidth=0.5)
-    plt.show()
+    # plt.ylim(4,6)
+    # plt.plot(continuousF0, label='continuous log F0')
+    # plt.legend()
+    #
+    # for k in range(len(accphrase)):
+    #     plt.plot([acctimestart[k]*framelength/timelength,acctimestart[k]*framelength/timelength],[4,6],'k-', linewidth=0.5)
+    #     plt.text((acctimestart[k]+acctimeend[k])*framelength/(2*timelength), 4.2, str(accphrase[k]), fontsize=12, ha='center', va ='center')
+    #
+    # plt.plot([acctimeend[len(accphrase) - 1]*framelength/timelength,acctimeend[len(accphrase) - 1]*framelength/timelength],[4,6],'k-', linewidth=0.5)
+    # plt.show()
     #plt.savefig("001007.jpg")
 
 

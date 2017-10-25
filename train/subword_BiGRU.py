@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 from chainer import cuda, training
 
+n_layer = 2
 vocab_size = 8000
 n_units = 64
 out_size = 50
@@ -60,36 +61,21 @@ def load_output(outputfile):
 
 
 class BiGRU(chainer.Chain):
-    def __init__(self, in_size, n_units, out_size, train=True):
+    def __init__(self, n_layer, in_size, n_units, out_size, dropout=0.5):
         super(BiGRU, self).__init__()
         with self.init_scope():
             self.embed = L.EmbedID(in_size, n_units)
-            self.hf = L.GRU(n_units, n_units)
-            self.hb = L.GRU(n_units, n_units)
-            self.l3 = L.Linear(n_units*2, out_size)
+            self.l1 = L.NStepBiGRU(n_layer, n_units, n_units, dropout)
+            self.l2 = L.Linear(n_units*2, out_size)
 
-        for param in self.params():
-            param.data[...] = np.random.uniform(-0.1, 0.1, param.data.shape)
-
-    def reset_state(self):
-        self.hf.reset_state()
-        self.hb.reset_state()
-
-    def __call__(self,x_list):
-        h0_list = list(map(self.embed,x_list))
-        f1_list = []
-        b1_list = []
-        for h0 in h0_list:
-            f1_list.append(self.hf(F.dropout(h0)))
-        for rh0 in reversed(h0_list):
-            b1_list.append(self.hb(F.dropout(rh0[::-1])))
-        b1_list = b1_list[::-1]
-        h1_list = [chainer.Variable(np.c_[f1_list[i].data,b1_list[i].data]) for i in range(len(f1_list))]
+    def __call__(self, x_list):
+        h0_list = list(map(self.embed, x_list))
+        hx = None
+        hy, h1_list = self.l1(hx, h0_list)
         y_list = []
         for h1 in h1_list:
-            y = self.l3(F.dropout(h1))
+            y = self.l2(F.dropout(h1))
             y_list.append(y)
-
         return y_list
 
     def lossfun(self, x_list, t_list):
@@ -118,7 +104,7 @@ def main():
     if args.model == "LSTM":
         model = LSTM(vocab_size,n_units,out_size)
     elif args.model == "BiGRU":
-        model = BiGRU(vocab_size,n_units,out_size)
+        model = BiGRU(n_layer,vocab_size,n_units,out_size)
     if args.gpu >= 0:
         model.to_gpu()
 
@@ -134,7 +120,6 @@ def main():
             outputfile = "./train_out/" + fn + ".csv"
             subwordseq = load_input(inputfile)
             f0seq = load_output(outputfile)
-            model.reset_state()
             model.cleargrads()
             loss = 0
             if args.model == "LSTM":
